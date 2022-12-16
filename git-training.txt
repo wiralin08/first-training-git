@@ -1,5 +1,4 @@
 -coba belajar git
 - testing 5
 - coba belajar 4
-- tambah kan angka 5 dan 6
 - mencoba belajar branch
