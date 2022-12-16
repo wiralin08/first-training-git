@@ -1,1 +1,3 @@
 -coba belajar git
+-testing ke 2
+-testing ke 3
